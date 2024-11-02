@@ -12,3 +12,4 @@ yarn-error.log*
 .aider*
 .env
 aider.conf.yml
+.idea
